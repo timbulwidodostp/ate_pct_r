@@ -1,6 +1,8 @@
 # ate_pct_r
 ATE (Average Treatment Effectin) percentage points under subgroup heterogeneity (post-estimation) Use ate_pct With (in) R Software
 
+https://www.youtube.com/watch?v=5wEcxBBlon8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
